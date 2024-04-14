@@ -1,0 +1,22 @@
+[
+  {"word": "سافرت", "category": "past"},
+  {"word": "كتبت", "category": "past"},
+  {"word": "قرأت", "category": "past"},
+  {"word": "عملت", "category": "past"},
+  {"word": "شربت", "category": "past"},
+  {"word": "اكتشفت", "category": "past"},
+  {"word": "أكلت", "category": "past"},
+  {"word": "ذهبت", "category": "past"},
+  {"word": "استمعت", "category": "past"},
+  {"word": "أرسلت", "category": "past"},
+  {"word": "سافر", "category": "present"},
+  {"word": "يكتب", "category": "present"},
+  {"word": "يقرأ", "category": "present"},
+  {"word": "يعمل", "category": "present"},
+  {"word": "يشرب", "category": "present"},
+  {"word": "يكتشف", "category": "present"},
+  {"word": "يأكل", "category": "present"},
+  {"word": "يذهب", "category": "present"},
+  {"word": "يستمع", "category": "present"},
+  {"word": "يرسل", "category": "present"}
+]
